@@ -1,8 +1,11 @@
-background-image: url("wood.jpg");
+
 
 /*This is the font used for the site*/
 body {
   font-family: 'Arial', arial;
+
+background-image: url("wood.jpg");
+
 }
 
 
