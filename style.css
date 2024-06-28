@@ -9,11 +9,6 @@ background-image: url("wood.jpg");
 }
 
 .imgcd {
-  width: 500px; 
-  height: 300px;
-  background-image: url("pigstep.png");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
+
 }
 
